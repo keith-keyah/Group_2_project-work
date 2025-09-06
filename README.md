@@ -1,4 +1,7 @@
 # group2_project
+#**Tableau Links**
+https://public.tableau.com/app/profile/keith.keyah/viz/Karamoja_17571533374680/Karamoja?publish=yes
+https://public.tableau.com/app/profile/keith.keyah/viz/Karamoja_17571533374680/Comparissons?publish=yes
 
 # ANALYSIS OF CROP YIELD IN KARAMOJA REGION
 
